@@ -1,0 +1,20 @@
+[
+    {
+        "Adi": "Muhammet",
+        "Soyadi": "Çağatay",
+        "Email": "cagataymuhammet@gmail.com",
+        "Parola": "NisaEla"
+    },
+    {
+        "Adi": "Işıl",
+        "Soyadi": "Subaşi",
+        "Email": "isil.subasi19@gmail.com",
+        "Parola": "Isil123"
+    },
+    {
+        "Adi": "Abdullah",
+        "Soyadi": "Subaşi",
+        "Email": "abdullahsubasi@gmail.com",
+        "Parola": "Abdullah123"
+    }
+]
